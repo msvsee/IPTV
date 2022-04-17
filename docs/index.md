@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-(https://github.com/msvsee/IPTV)
+(https://github.com/msvsee/IPTV/turkey_turkish.m3u)
 
 You can use the [editor on GitHub](https://github.com/msvsee/IPTV/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
